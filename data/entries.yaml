@@ -1,0 +1,630 @@
+- name: '![Awesome'
+  year: Unknown
+  type: Paper
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://awesome.re/badge.svg
+  category: related_awesome
+  source: A
+- name: IMPLEXCONV
+  year: 2025
+  type: Paper
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://aclanthology.org/2025.emnlp-main.580.pdf
+  category: repr_summary_notes
+  source: A
+- name: PERSONAMEM
+  year: Unknown
+  type: Paper
+  scope: long
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/pdf/2504.14225
+  category: repr_summary_notes
+  source: A
+- name: PERSONAMEM-v2
+  year: Unknown
+  type: Paper
+  scope: long
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://www.arxiv.org/pdf/2512.06688
+  category: repr_summary_notes
+  source: A
+- name: PersonaBench
+  year: 2025
+  type: Paper
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://aclanthology.org/2025.findings-acl.49.pdf
+  category: repr_summary_notes
+  source: A
+- name: PersonaFeedback
+  year: Unknown
+  type: Paper
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/pdf/2506.12915
+  category: repr_summary_notes
+  source: A
+- name: LaMP
+  year: 2024
+  type: Paper
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://aclanthology.org/2024.acl-long.399.pdf
+  category: repr_summary_notes
+  source: A
+- name: MemDaily
+  year: 2016
+  type: Paper
+  scope: long
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/pdf/2409.20163
+  category: repr_summary_notes
+  source: A
+- name: KnowMe-Bench
+  year: Unknown
+  type: Paper
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/abs/2601.04745
+  category: repr_summary_notes
+  source: A
+- name: MemoryAgentBench
+  year: Unknown
+  type: Paper
+  scope: long
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/pdf/2507.05257
+  category: repr_summary_notes
+  source: A
+- name: LifelongAgentBench
+  year: Unknown
+  type: Paper
+  scope: long
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/pdf/2505.11942
+  category: repr_summary_notes
+  source: A
+- name: StreamBench
+  year: Unknown
+  type: Paper
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/pdf/2406.08747
+  category: repr_summary_notes
+  source: A
+- name: MemBench
+  year: 2025
+  type: Paper
+  scope: long
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://aclanthology.org/2025.findings-acl.989.pdf
+  category: repr_summary_notes
+  source: A
+- name: Minerva
+  year: Unknown
+  type: Paper
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/pdf/2502.03358
+  category: repr_summary_notes
+  source: A
+- name: MemoryBench
+  year: Unknown
+  type: Paper
+  scope: long
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/pdf/2510.17281
+  category: repr_summary_notes
+  source: A
+- name: LOCCO
+  year: 2025
+  type: Paper
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://aclanthology.org/2025.findings-acl.1014.pdf
+  category: repr_summary_notes
+  source: A
+- name: LONGMEMEVAL
+  year: Unknown
+  type: Benchmark
+  scope: long
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/pdf/2410.10813
+  category: benchmarks_evaluation
+  source: A
+- name: LOCOMO
+  year: 2024
+  type: Benchmark
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://aclanthology.org/2024.acl-long.747.pdf
+  category: benchmarks_evaluation
+  source: A
+- name: MADial-Bench
+  year: Unknown
+  type: Paper
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/abs/2409.15240
+  category: repr_summary_notes
+  source: A
+- name: StoryBench
+  year: Unknown
+  type: Paper
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/pdf/2506.13356
+  category: repr_summary_notes
+  source: A
+- name: DialSim
+  year: Unknown
+  type: Paper
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/pdf/2406.13144
+  category: repr_summary_notes
+  source: A
+- name: Mem-Gallery
+  year: Unknown
+  type: Paper
+  scope: long
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/pdf/2601.03515
+  category: repr_summary_notes
+  source: A
+- name: RealMem
+  year: Unknown
+  type: Paper
+  scope: long
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/pdf/2601.06966
+  category: repr_summary_notes
+  source: A
+- name: CloneMem
+  year: Unknown
+  type: Paper
+  scope: long
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/pdf/2601.07023
+  category: repr_summary_notes
+  source: A
+- name: PREFEVAL
+  year: Unknown
+  type: Benchmark
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/pdf/2502.09597
+  category: benchmarks_evaluation
+  source: A
+- name: MiniLongBench
+  year: 2025
+  type: Paper
+  scope: long
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://aclanthology.org/2025.acl-long.560.pdf
+  category: repr_summary_notes
+  source: A
+- name: LongBench V2
+  year: Unknown
+  type: Paper
+  scope: long
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/pdf/2412.15204
+  category: repr_summary_notes
+  source: A
+- name: LongBench
+  year: Unknown
+  type: Paper
+  scope: long
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/abs/2308.14508
+  category: repr_summary_notes
+  source: A
+- name: BABILong
+  year: Unknown
+  type: Paper
+  scope: long
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/pdf/2406.10149
+  category: repr_summary_notes
+  source: A
+- name: HotpotQA
+  year: Unknown
+  type: Dataset
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://aclanthology.org/D18-1259.pdf
+  category: datasets
+  source: A
+- name: SCBENCH
+  year: Unknown
+  type: Paper
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/abs/2412.10319
+  category: repr_summary_notes
+  source: A
+- name: L-CiteEval
+  year: Unknown
+  type: Benchmark
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/pdf/2410.02115
+  category: benchmarks_evaluation
+  source: A
+- name: HOMER
+  year: Unknown
+  type: Paper
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/pdf/2404.10308
+  category: repr_summary_notes
+  source: A
+- name: RULER
+  year: Unknown
+  type: Paper
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/pdf/2404.06654
+  category: repr_summary_notes
+  source: A
+- name: MM-Needle
+  year: 2025
+  type: Paper
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://aclanthology.org/2025.naacl-long.166.pdf
+  category: repr_summary_notes
+  source: A
+- name: LongGenBench
+  year: 2076
+  type: Paper
+  scope: long
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/pdf/2409.02076
+  category: repr_summary_notes
+  source: A
+- name: PerLTQA
+  year: 2024
+  type: Dataset
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://aclanthology.org/2024.sighan-1.18.pdf
+  category: datasets
+  source: A
+- name: HaluMem
+  year: Unknown
+  type: Paper
+  scope: long
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/pdf/2511.03506
+  category: repr_summary_notes
+  source: A
+- name: WebChoreArena
+  year: Unknown
+  type: Paper
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/pdf/2506.01952
+  category: repr_summary_notes
+  source: A
+- name: MT-Mind2Web
+  year: Unknown
+  type: Paper
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/pdf/2402.15057
+  category: repr_summary_notes
+  source: A
+- name: WebShop
+  year: Unknown
+  type: Paper
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/pdf/2207.01206
+  category: repr_summary_notes
+  source: A
+- name: WebArena
+  year: Unknown
+  type: Paper
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/pdf/2307.13854
+  category: repr_summary_notes
+  source: A
+- name: 'Graph-based Agent Memory: Taxonomy, Techniques, and Applications'
+  year: Unknown
+  type: Paper
+  scope: long
+  key_idea: Graph-centric memory design space and trade-offs.
+  links:
+  - https://arxiv.org/pdf/2602.05665
+  category: surveys_taxonomies
+  source: C
+- name: MemGPT
+  year: Unknown
+  type: Paper
+  scope: long
+  key_idea: Virtual context paging for persistent agent memory.
+  links:
+  - https://arxiv.org/abs/2310.08560
+  category: repr_summary_notes
+  source: D
+- name: Letta (formerly MemGPT)
+  year: Unknown
+  type: Repo
+  scope: long
+  key_idea: Virtual context paging for persistent agent memory.
+  links:
+  - https://github.com/letta-ai/letta
+  category: systems_frameworks
+  source: D
+- name: 'A-MEM: Agentic Memory for LLM Agents'
+  year: Unknown
+  type: Paper
+  scope: long
+  key_idea: Agentic memory pipeline for write/retrieve decisions.
+  links:
+  - https://arxiv.org/abs/2502.12110
+  category: repr_summary_notes
+  source: D
+- name: A-mem
+  year: Unknown
+  type: Repo
+  scope: long
+  key_idea: Agentic memory pipeline for write/retrieve decisions.
+  links:
+  - https://github.com/agiresearch/A-mem
+  category: repr_summary_notes
+  source: D
+- name: 'RET-LLM: read-write memory'
+  year: Unknown
+  type: Paper
+  scope: long
+  key_idea: Read-write memory integrated with language modeling.
+  links:
+  - https://arxiv.org/abs/2305.14322
+  category: write_update_forget
+  source: D
+- name: MemoryLLM
+  year: Unknown
+  type: Paper
+  scope: long
+  key_idea: Explicit memory tokens with retrieval-augmented updates.
+  links:
+  - https://arxiv.org/abs/2402.04624
+  category: repr_summary_notes
+  source: D
+- name: MemoryLLM repo
+  year: Unknown
+  type: Repo
+  scope: long
+  key_idea: Explicit memory tokens with retrieval-augmented updates.
+  links:
+  - https://github.com/wangyu-ustc/MemoryLLM
+  category: repr_summary_notes
+  source: D
+- name: Generative Agents
+  year: Unknown
+  type: Paper
+  scope: long
+  key_idea: Reflection-driven long-horizon memory in social simulation.
+  links:
+  - https://arxiv.org/abs/2304.03442
+  category: repr_summary_notes
+  source: D
+- name: Recurrent Memory Transformer
+  year: Unknown
+  type: Paper
+  scope: long
+  key_idea: Recurrent state memory extends sequence handling.
+  links:
+  - https://arxiv.org/abs/2207.06881
+  category: repr_summary_notes
+  source: D
+- name: Graph-based Agent Memory survey
+  year: Unknown
+  type: Paper
+  scope: long
+  key_idea: Graph-centric memory design space and trade-offs.
+  links:
+  - https://arxiv.org/html/2602.05665v1
+  category: surveys_taxonomies
+  source: D
+- name: Reflexion
+  year: Unknown
+  type: Paper
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/abs/2303.11366
+  category: write_update_forget
+  source: D
+- name: Voyager
+  year: Unknown
+  type: Paper
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/abs/2305.16291
+  category: repr_summary_notes
+  source: D
+- name: LongMem
+  year: Unknown
+  type: Paper
+  scope: long
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/abs/2306.07174
+  category: repr_summary_notes
+  source: D
+- name: SELF-RAG
+  year: Unknown
+  type: Paper
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/abs/2310.11511
+  category: repr_vector_retrieval
+  source: D
+- name: RAGAs
+  year: Unknown
+  type: Paper
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/abs/2309.15217
+  category: repr_vector_retrieval
+  source: D
+- name: Mem0
+  year: Unknown
+  type: Repo
+  scope: long
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://github.com/mem0ai/mem0
+  category: systems_frameworks
+  source: D
+- name: LangGraph
+  year: Unknown
+  type: Repo
+  scope: long
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://github.com/langchain-ai/langgraph
+  category: systems_frameworks
+  source: D
+- name: LlamaIndex
+  year: Unknown
+  type: Repo
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://github.com/run-llama/llama_index
+  category: systems_frameworks
+  source: D
+- name: Haystack
+  year: Unknown
+  type: Repo
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://github.com/deepset-ai/haystack
+  category: systems_frameworks
+  source: D
+- name: Zep
+  year: Unknown
+  type: Repo
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://github.com/getzep/zep
+  category: systems_frameworks
+  source: D
+- name: LoCoMo
+  year: Unknown
+  type: Benchmark
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/abs/2402.17753
+  category: benchmarks_evaluation
+  source: D
+- name: BEIR
+  year: Unknown
+  type: Benchmark
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/abs/2104.08663
+  category: benchmarks_evaluation
+  source: D
+- name: MTEB
+  year: Unknown
+  type: Benchmark
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/abs/2210.07316
+  category: benchmarks_evaluation
+  source: D
+- name: MuSiQue
+  year: Unknown
+  type: Dataset
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/abs/2108.00573
+  category: datasets
+  source: D
+- name: QuALITY
+  year: Unknown
+  type: Dataset
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://arxiv.org/abs/2112.08608
+  category: datasets
+  source: D
+- name: Natural Questions
+  year: Unknown
+  type: Dataset
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - https://ai.google.com/research/NaturalQuestions
+  category: datasets
+  source: D
+- name: TriviaQA
+  year: Unknown
+  type: Dataset
+  scope: short
+  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  links:
+  - http://nlp.cs.washington.edu/triviaqa/
+  category: datasets
+  source: D
