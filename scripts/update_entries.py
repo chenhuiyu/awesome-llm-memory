@@ -62,8 +62,19 @@ def infer_category(t, n):
 
 
 def infer_year(name, url):
+    m = re.search(r'arxiv\.org/(?:abs|pdf|html)/([0-9]{4})\.[0-9]{4,5}', url)
+    if m:
+        yy = int(m.group(1)[:2])
+        return 2000 + yy
+    m = re.search(r'aclanthology\.org/[A-Z](\d{2})-', url)
+    if m:
+        return 2000 + int(m.group(1))
     m = PAT_YEAR.search(url) or PAT_YEAR.search(name)
-    return int(m.group(1)) if m else "Unknown"
+    if m:
+        y = int(m.group(1))
+        if 2000 <= y <= 2099:
+            return y
+    return "Unknown"
 
 
 def load_entries(path):
@@ -87,7 +98,7 @@ def main():
         except Exception:
             continue
         for name, link in PAT_MD.findall(txt):
-            if any(x in link for x in ["img.shields", "/issues", "/pulls", "/stargazers"]):
+            if any(x in link for x in ["img.shields", "awesome.re/badge.svg", "/issues", "/pulls", "/stargazers"]):
                 continue
             name = re.sub(r"\s+", " ", name).strip(" -*•")
             if len(name) < 4 or link in by_url:

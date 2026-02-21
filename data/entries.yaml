@@ -1,12 +1,3 @@
-- name: '![Awesome'
-  year: Unknown
-  type: Paper
-  scope: short
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
-  links:
-  - https://awesome.re/badge.svg
-  category: related_awesome
-  source: A
 - name: IMPLEXCONV
   year: 2025
   type: Paper
@@ -17,7 +8,7 @@
   category: repr_summary_notes
   source: A
 - name: PERSONAMEM
-  year: Unknown
+  year: 2025
   type: Paper
   scope: long
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
@@ -26,7 +17,7 @@
   category: repr_summary_notes
   source: A
 - name: PERSONAMEM-v2
-  year: Unknown
+  year: 2025
   type: Paper
   scope: long
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
@@ -44,7 +35,7 @@
   category: repr_summary_notes
   source: A
 - name: PersonaFeedback
-  year: Unknown
+  year: 2025
   type: Paper
   scope: short
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
@@ -71,7 +62,7 @@
   category: repr_summary_notes
   source: A
 - name: KnowMe-Bench
-  year: Unknown
+  year: 2026
   type: Paper
   scope: short
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
@@ -80,7 +71,7 @@
   category: repr_summary_notes
   source: A
 - name: MemoryAgentBench
-  year: Unknown
+  year: 2025
   type: Paper
   scope: long
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
@@ -89,7 +80,7 @@
   category: repr_summary_notes
   source: A
 - name: LifelongAgentBench
-  year: Unknown
+  year: 2025
   type: Paper
   scope: long
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
@@ -98,7 +89,7 @@
   category: repr_summary_notes
   source: A
 - name: StreamBench
-  year: Unknown
+  year: 2024
   type: Paper
   scope: short
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
@@ -116,7 +107,7 @@
   category: repr_summary_notes
   source: A
 - name: Minerva
-  year: Unknown
+  year: 2025
   type: Paper
   scope: short
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
@@ -125,7 +116,7 @@
   category: repr_summary_notes
   source: A
 - name: MemoryBench
-  year: Unknown
+  year: 2025
   type: Paper
   scope: long
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
@@ -142,8 +133,8 @@
   - https://aclanthology.org/2025.findings-acl.1014.pdf
   category: repr_summary_notes
   source: A
-- name: LONGMEMEVAL
-  year: Unknown
+- name: LongMemEval
+  year: 2024
   type: Benchmark
   scope: long
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
@@ -161,7 +152,7 @@
   category: benchmarks_evaluation
   source: A
 - name: MADial-Bench
-  year: Unknown
+  year: 2024
   type: Paper
   scope: short
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
@@ -170,7 +161,7 @@
   category: repr_summary_notes
   source: A
 - name: StoryBench
-  year: Unknown
+  year: 2025
   type: Paper
   scope: short
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
@@ -179,7 +170,7 @@
   category: repr_summary_notes
   source: A
 - name: DialSim
-  year: Unknown
+  year: 2024
   type: Paper
   scope: short
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
@@ -188,7 +179,7 @@
   category: repr_summary_notes
   source: A
 - name: Mem-Gallery
-  year: Unknown
+  year: 2026
   type: Paper
   scope: long
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
@@ -197,7 +188,7 @@
   category: repr_summary_notes
   source: A
 - name: RealMem
-  year: Unknown
+  year: 2026
   type: Paper
   scope: long
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
@@ -206,7 +197,7 @@
   category: repr_summary_notes
   source: A
 - name: CloneMem
-  year: Unknown
+  year: 2026
   type: Paper
   scope: long
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
@@ -215,7 +206,7 @@
   category: repr_summary_notes
   source: A
 - name: PREFEVAL
-  year: Unknown
+  year: 2025
   type: Benchmark
   scope: short
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
@@ -233,7 +224,7 @@
   category: repr_summary_notes
   source: A
 - name: LongBench V2
-  year: Unknown
+  year: 2024
   type: Paper
   scope: long
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
@@ -242,7 +233,7 @@
   category: repr_summary_notes
   source: A
 - name: LongBench
-  year: Unknown
+  year: 2023
   type: Paper
   scope: long
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
@@ -251,7 +242,7 @@
   category: repr_summary_notes
   source: A
 - name: BABILong
-  year: Unknown
+  year: 2024
   type: Paper
   scope: long
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
@@ -260,7 +251,7 @@
   category: repr_summary_notes
   source: A
 - name: HotpotQA
-  year: Unknown
+  year: 2018
   type: Dataset
   scope: short
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
@@ -269,7 +260,7 @@
   category: datasets
   source: A
 - name: SCBENCH
-  year: Unknown
+  year: 2024
   type: Paper
   scope: short
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
@@ -278,7 +269,7 @@
   category: repr_summary_notes
   source: A
 - name: L-CiteEval
-  year: Unknown
+  year: 2024
   type: Benchmark
   scope: short
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
@@ -287,7 +278,7 @@
   category: benchmarks_evaluation
   source: A
 - name: HOMER
-  year: Unknown
+  year: 2024
   type: Paper
   scope: short
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
@@ -296,7 +287,7 @@
   category: repr_summary_notes
   source: A
 - name: RULER
-  year: Unknown
+  year: 2024
   type: Paper
   scope: short
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
@@ -332,7 +323,7 @@
   category: datasets
   source: A
 - name: HaluMem
-  year: Unknown
+  year: 2025
   type: Paper
   scope: long
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
@@ -341,7 +332,7 @@
   category: repr_summary_notes
   source: A
 - name: WebChoreArena
-  year: Unknown
+  year: 2025
   type: Paper
   scope: short
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
@@ -350,7 +341,7 @@
   category: repr_summary_notes
   source: A
 - name: MT-Mind2Web
-  year: Unknown
+  year: 2024
   type: Paper
   scope: short
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
@@ -359,7 +350,7 @@
   category: repr_summary_notes
   source: A
 - name: WebShop
-  year: Unknown
+  year: 2022
   type: Paper
   scope: short
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
@@ -368,7 +359,7 @@
   category: repr_summary_notes
   source: A
 - name: WebArena
-  year: Unknown
+  year: 2023
   type: Paper
   scope: short
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
@@ -377,7 +368,7 @@
   category: repr_summary_notes
   source: A
 - name: 'Graph-based Agent Memory: Taxonomy, Techniques, and Applications'
-  year: Unknown
+  year: 2026
   type: Paper
   scope: long
   key_idea: Graph-centric memory design space and trade-offs.
@@ -386,7 +377,7 @@
   category: surveys_taxonomies
   source: C
 - name: MemGPT
-  year: Unknown
+  year: 2023
   type: Paper
   scope: long
   key_idea: Virtual context paging for persistent agent memory.
@@ -404,7 +395,7 @@
   category: systems_frameworks
   source: D
 - name: 'A-MEM: Agentic Memory for LLM Agents'
-  year: Unknown
+  year: 2025
   type: Paper
   scope: long
   key_idea: Agentic memory pipeline for write/retrieve decisions.
@@ -422,7 +413,7 @@
   category: repr_summary_notes
   source: D
 - name: 'RET-LLM: read-write memory'
-  year: Unknown
+  year: 2023
   type: Paper
   scope: long
   key_idea: Read-write memory integrated with language modeling.
@@ -431,7 +422,7 @@
   category: write_update_forget
   source: D
 - name: MemoryLLM
-  year: Unknown
+  year: 2024
   type: Paper
   scope: long
   key_idea: Explicit memory tokens with retrieval-augmented updates.
@@ -449,7 +440,7 @@
   category: repr_summary_notes
   source: D
 - name: Generative Agents
-  year: Unknown
+  year: 2023
   type: Paper
   scope: long
   key_idea: Reflection-driven long-horizon memory in social simulation.
@@ -458,7 +449,7 @@
   category: repr_summary_notes
   source: D
 - name: Recurrent Memory Transformer
-  year: Unknown
+  year: 2022
   type: Paper
   scope: long
   key_idea: Recurrent state memory extends sequence handling.
@@ -467,7 +458,7 @@
   category: repr_summary_notes
   source: D
 - name: Graph-based Agent Memory survey
-  year: Unknown
+  year: 2026
   type: Paper
   scope: long
   key_idea: Graph-centric memory design space and trade-offs.
@@ -476,7 +467,7 @@
   category: surveys_taxonomies
   source: D
 - name: Reflexion
-  year: Unknown
+  year: 2023
   type: Paper
   scope: short
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
@@ -485,7 +476,7 @@
   category: write_update_forget
   source: D
 - name: Voyager
-  year: Unknown
+  year: 2023
   type: Paper
   scope: short
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
@@ -494,7 +485,7 @@
   category: repr_summary_notes
   source: D
 - name: LongMem
-  year: Unknown
+  year: 2023
   type: Paper
   scope: long
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
@@ -503,7 +494,7 @@
   category: repr_summary_notes
   source: D
 - name: SELF-RAG
-  year: Unknown
+  year: 2023
   type: Paper
   scope: short
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
@@ -512,7 +503,7 @@
   category: repr_vector_retrieval
   source: D
 - name: RAGAs
-  year: Unknown
+  year: 2023
   type: Paper
   scope: short
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
@@ -565,17 +556,8 @@
   - https://github.com/getzep/zep
   category: systems_frameworks
   source: D
-- name: LoCoMo
-  year: Unknown
-  type: Benchmark
-  scope: short
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
-  links:
-  - https://arxiv.org/abs/2402.17753
-  category: benchmarks_evaluation
-  source: D
 - name: BEIR
-  year: Unknown
+  year: 2021
   type: Benchmark
   scope: short
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
@@ -584,7 +566,7 @@
   category: benchmarks_evaluation
   source: D
 - name: MTEB
-  year: Unknown
+  year: 2022
   type: Benchmark
   scope: short
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
@@ -593,7 +575,7 @@
   category: benchmarks_evaluation
   source: D
 - name: MuSiQue
-  year: Unknown
+  year: 2021
   type: Dataset
   scope: short
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
@@ -602,7 +584,7 @@
   category: datasets
   source: D
 - name: QuALITY
-  year: Unknown
+  year: 2021
   type: Dataset
   scope: short
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
