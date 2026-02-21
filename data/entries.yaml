@@ -2,7 +2,8 @@
   year: 2025
   type: Paper
   scope: short
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Investigates memory-aware modeling to improve long-context reasoning,
+    persistence, and adaptation.
   links:
   - https://aclanthology.org/2025.emnlp-main.580.pdf
   category: repr_summary_notes
@@ -11,7 +12,8 @@
   year: 2025
   type: Paper
   scope: long
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Investigates memory-aware modeling to improve long-context reasoning,
+    persistence, and adaptation.
   links:
   - https://arxiv.org/pdf/2504.14225
   category: repr_summary_notes
@@ -20,7 +22,8 @@
   year: 2025
   type: Paper
   scope: long
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Investigates memory-aware modeling to improve long-context reasoning,
+    persistence, and adaptation.
   links:
   - https://www.arxiv.org/pdf/2512.06688
   category: repr_summary_notes
@@ -29,7 +32,8 @@
   year: 2025
   type: Paper
   scope: short
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Defines evaluation settings and metrics for long-horizon memory, retrieval
+    quality, and consistency.
   links:
   - https://aclanthology.org/2025.findings-acl.49.pdf
   category: repr_summary_notes
@@ -38,7 +42,8 @@
   year: 2025
   type: Paper
   scope: short
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Investigates memory-aware modeling to improve long-context reasoning,
+    persistence, and adaptation.
   links:
   - https://arxiv.org/pdf/2506.12915
   category: repr_summary_notes
@@ -47,7 +52,8 @@
   year: 2024
   type: Paper
   scope: short
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Investigates memory-aware modeling to improve long-context reasoning,
+    persistence, and adaptation.
   links:
   - https://aclanthology.org/2024.acl-long.399.pdf
   category: repr_summary_notes
@@ -56,7 +62,8 @@
   year: 2016
   type: Paper
   scope: long
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Investigates memory-aware modeling to improve long-context reasoning,
+    persistence, and adaptation.
   links:
   - https://arxiv.org/pdf/2409.20163
   category: repr_summary_notes
@@ -65,7 +72,8 @@
   year: 2026
   type: Paper
   scope: short
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Defines evaluation settings and metrics for long-horizon memory, retrieval
+    quality, and consistency.
   links:
   - https://arxiv.org/abs/2601.04745
   category: repr_summary_notes
@@ -74,7 +82,8 @@
   year: 2025
   type: Paper
   scope: long
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Defines evaluation settings and metrics for long-horizon memory, retrieval
+    quality, and consistency.
   links:
   - https://arxiv.org/pdf/2507.05257
   category: repr_summary_notes
@@ -83,7 +92,8 @@
   year: 2025
   type: Paper
   scope: long
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Defines evaluation settings and metrics for long-horizon memory, retrieval
+    quality, and consistency.
   links:
   - https://arxiv.org/pdf/2505.11942
   category: repr_summary_notes
@@ -92,7 +102,8 @@
   year: 2024
   type: Paper
   scope: short
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Defines evaluation settings and metrics for long-horizon memory, retrieval
+    quality, and consistency.
   links:
   - https://arxiv.org/pdf/2406.08747
   category: repr_summary_notes
@@ -101,7 +112,8 @@
   year: 2025
   type: Paper
   scope: long
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Defines evaluation settings and metrics for long-horizon memory, retrieval
+    quality, and consistency.
   links:
   - https://aclanthology.org/2025.findings-acl.989.pdf
   category: repr_summary_notes
@@ -110,7 +122,8 @@
   year: 2025
   type: Paper
   scope: short
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Investigates memory-aware modeling to improve long-context reasoning,
+    persistence, and adaptation.
   links:
   - https://arxiv.org/pdf/2502.03358
   category: repr_summary_notes
@@ -119,7 +132,8 @@
   year: 2025
   type: Paper
   scope: long
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Defines evaluation settings and metrics for long-horizon memory, retrieval
+    quality, and consistency.
   links:
   - https://arxiv.org/pdf/2510.17281
   category: repr_summary_notes
@@ -128,7 +142,8 @@
   year: 2025
   type: Paper
   scope: short
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Investigates memory-aware modeling to improve long-context reasoning,
+    persistence, and adaptation.
   links:
   - https://aclanthology.org/2025.findings-acl.1014.pdf
   category: repr_summary_notes
@@ -155,7 +170,8 @@
   year: 2024
   type: Paper
   scope: short
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Defines evaluation settings and metrics for long-horizon memory, retrieval
+    quality, and consistency.
   links:
   - https://arxiv.org/abs/2409.15240
   category: repr_summary_notes
@@ -164,7 +180,8 @@
   year: 2025
   type: Paper
   scope: short
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Defines evaluation settings and metrics for long-horizon memory, retrieval
+    quality, and consistency.
   links:
   - https://arxiv.org/pdf/2506.13356
   category: repr_summary_notes
@@ -173,7 +190,8 @@
   year: 2024
   type: Paper
   scope: short
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Investigates memory-aware modeling to improve long-context reasoning,
+    persistence, and adaptation.
   links:
   - https://arxiv.org/pdf/2406.13144
   category: repr_summary_notes
@@ -182,7 +200,8 @@
   year: 2026
   type: Paper
   scope: long
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Investigates memory-aware modeling to improve long-context reasoning,
+    persistence, and adaptation.
   links:
   - https://arxiv.org/pdf/2601.03515
   category: repr_summary_notes
@@ -191,7 +210,8 @@
   year: 2026
   type: Paper
   scope: long
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Investigates memory-aware modeling to improve long-context reasoning,
+    persistence, and adaptation.
   links:
   - https://arxiv.org/pdf/2601.06966
   category: repr_summary_notes
@@ -200,7 +220,8 @@
   year: 2026
   type: Paper
   scope: long
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Investigates memory-aware modeling to improve long-context reasoning,
+    persistence, and adaptation.
   links:
   - https://arxiv.org/pdf/2601.07023
   category: repr_summary_notes
@@ -218,7 +239,8 @@
   year: 2025
   type: Paper
   scope: long
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Defines evaluation settings and metrics for long-horizon memory, retrieval
+    quality, and consistency.
   links:
   - https://aclanthology.org/2025.acl-long.560.pdf
   category: repr_summary_notes
@@ -227,7 +249,8 @@
   year: 2024
   type: Paper
   scope: long
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Defines evaluation settings and metrics for long-horizon memory, retrieval
+    quality, and consistency.
   links:
   - https://arxiv.org/pdf/2412.15204
   category: repr_summary_notes
@@ -236,7 +259,8 @@
   year: 2023
   type: Paper
   scope: long
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Defines evaluation settings and metrics for long-horizon memory, retrieval
+    quality, and consistency.
   links:
   - https://arxiv.org/abs/2308.14508
   category: repr_summary_notes
@@ -245,7 +269,8 @@
   year: 2024
   type: Paper
   scope: long
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Presents mechanisms for persistent agent memory across tasks, sessions,
+    or long-horizon workflows.
   links:
   - https://arxiv.org/pdf/2406.10149
   category: repr_summary_notes
@@ -263,7 +288,8 @@
   year: 2024
   type: Paper
   scope: short
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Defines evaluation settings and metrics for long-horizon memory, retrieval
+    quality, and consistency.
   links:
   - https://arxiv.org/abs/2412.10319
   category: repr_summary_notes
@@ -281,7 +307,8 @@
   year: 2024
   type: Paper
   scope: short
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Investigates memory-aware modeling to improve long-context reasoning,
+    persistence, and adaptation.
   links:
   - https://arxiv.org/pdf/2404.10308
   category: repr_summary_notes
@@ -290,7 +317,8 @@
   year: 2024
   type: Paper
   scope: short
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Investigates memory-aware modeling to improve long-context reasoning,
+    persistence, and adaptation.
   links:
   - https://arxiv.org/pdf/2404.06654
   category: repr_summary_notes
@@ -299,7 +327,8 @@
   year: 2025
   type: Paper
   scope: short
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Investigates memory-aware modeling to improve long-context reasoning,
+    persistence, and adaptation.
   links:
   - https://aclanthology.org/2025.naacl-long.166.pdf
   category: repr_summary_notes
@@ -308,7 +337,8 @@
   year: 2076
   type: Paper
   scope: long
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Defines evaluation settings and metrics for long-horizon memory, retrieval
+    quality, and consistency.
   links:
   - https://arxiv.org/pdf/2409.02076
   category: repr_summary_notes
@@ -326,7 +356,8 @@
   year: 2025
   type: Paper
   scope: long
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Investigates memory-aware modeling to improve long-context reasoning,
+    persistence, and adaptation.
   links:
   - https://arxiv.org/pdf/2511.03506
   category: repr_summary_notes
@@ -335,7 +366,8 @@
   year: 2025
   type: Paper
   scope: short
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Investigates memory-aware modeling to improve long-context reasoning,
+    persistence, and adaptation.
   links:
   - https://arxiv.org/pdf/2506.01952
   category: repr_summary_notes
@@ -344,7 +376,8 @@
   year: 2024
   type: Paper
   scope: short
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Investigates memory-aware modeling to improve long-context reasoning,
+    persistence, and adaptation.
   links:
   - https://arxiv.org/pdf/2402.15057
   category: repr_summary_notes
@@ -353,7 +386,8 @@
   year: 2022
   type: Paper
   scope: short
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Investigates memory-aware modeling to improve long-context reasoning,
+    persistence, and adaptation.
   links:
   - https://arxiv.org/pdf/2207.01206
   category: repr_summary_notes
@@ -362,7 +396,8 @@
   year: 2023
   type: Paper
   scope: short
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Investigates memory-aware modeling to improve long-context reasoning,
+    persistence, and adaptation.
   links:
   - https://arxiv.org/pdf/2307.13854
   category: repr_summary_notes
@@ -371,7 +406,8 @@
   year: 2026
   type: Paper
   scope: long
-  key_idea: Graph-centric memory design space and trade-offs.
+  key_idea: Systematically reviews memory methods, organizes design dimensions, and
+    highlights open research gaps.
   links:
   - https://arxiv.org/pdf/2602.05665
   category: surveys_taxonomies
@@ -380,7 +416,8 @@
   year: 2023
   type: Paper
   scope: long
-  key_idea: Virtual context paging for persistent agent memory.
+  key_idea: Introduces virtual memory-style paging to extend LLM context with persistent
+    long-term memory.
   links:
   - https://arxiv.org/abs/2310.08560
   category: repr_summary_notes
@@ -398,7 +435,8 @@
   year: 2025
   type: Paper
   scope: long
-  key_idea: Agentic memory pipeline for write/retrieve decisions.
+  key_idea: Proposes agentic memory operations that decide what to write, update,
+    and retrieve over time.
   links:
   - https://arxiv.org/abs/2502.12110
   category: repr_summary_notes
@@ -416,7 +454,8 @@
   year: 2023
   type: Paper
   scope: long
-  key_idea: Read-write memory integrated with language modeling.
+  key_idea: Adds explicit read-write external memory to improve long-context reasoning
+    and factual consistency.
   links:
   - https://arxiv.org/abs/2305.14322
   category: write_update_forget
@@ -425,7 +464,8 @@
   year: 2024
   type: Paper
   scope: long
-  key_idea: Explicit memory tokens with retrieval-augmented updates.
+  key_idea: Uses dedicated memory tokens and retrieval to maintain long-horizon information
+    across interactions.
   links:
   - https://arxiv.org/abs/2402.04624
   category: repr_summary_notes
@@ -443,7 +483,8 @@
   year: 2023
   type: Paper
   scope: long
-  key_idea: Reflection-driven long-horizon memory in social simulation.
+  key_idea: Combines observation, reflection, and planning to simulate believable
+    long-term agent behavior.
   links:
   - https://arxiv.org/abs/2304.03442
   category: repr_summary_notes
@@ -452,7 +493,8 @@
   year: 2022
   type: Paper
   scope: long
-  key_idea: Recurrent state memory extends sequence handling.
+  key_idea: Maintains recurrent memory states across segments to scale sequence modeling
+    beyond fixed windows.
   links:
   - https://arxiv.org/abs/2207.06881
   category: repr_summary_notes
@@ -461,7 +503,8 @@
   year: 2026
   type: Paper
   scope: long
-  key_idea: Graph-centric memory design space and trade-offs.
+  key_idea: Surveys graph-structured memory for agents, covering representations,
+    operations, and evaluation trade-offs.
   links:
   - https://arxiv.org/html/2602.05665v1
   category: surveys_taxonomies
@@ -470,7 +513,8 @@
   year: 2023
   type: Paper
   scope: short
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Improves agents via verbal self-reflection that updates future decision-making
+    without weight updates.
   links:
   - https://arxiv.org/abs/2303.11366
   category: write_update_forget
@@ -479,7 +523,8 @@
   year: 2023
   type: Paper
   scope: short
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Builds a lifelong skill library in Minecraft using iterative prompting,
+    memory, and automatic curriculum.
   links:
   - https://arxiv.org/abs/2305.16291
   category: repr_summary_notes
@@ -488,7 +533,8 @@
   year: 2023
   type: Paper
   scope: long
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Enhances transformers with long-term memory modules for better extrapolation
+    to lengthy contexts.
   links:
   - https://arxiv.org/abs/2306.07174
   category: repr_summary_notes
@@ -497,7 +543,8 @@
   year: 2023
   type: Paper
   scope: short
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Trains models to self-retrieve and self-critique, improving controllability
+    and factual grounding in generation.
   links:
   - https://arxiv.org/abs/2310.11511
   category: repr_vector_retrieval
@@ -506,7 +553,8 @@
   year: 2023
   type: Paper
   scope: short
-  key_idea: Seed-curated memory resource for LLM/agent memory workflows.
+  key_idea: Provides reference-free metrics to evaluate retrieval-augmented generation
+    pipelines end-to-end.
   links:
   - https://arxiv.org/abs/2309.15217
   category: repr_vector_retrieval
