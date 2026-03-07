@@ -2,8 +2,8 @@
 
 > Curated resources for LLM/Agent memory: papers, repos, benchmarks, and datasets.
 
-**Last updated: 2026-02-21**
-**Stats:** 68 entries · Paper 48 · Repo 8 · Benchmark 6 · Dataset 6
+**Last updated: 2026-03-07**
+**Stats:** 83 entries · Paper 63 · Repo 8 · Benchmark 6 · Dataset 6
 
 English | [中文](./README.zh-CN.md)
 
@@ -19,6 +19,8 @@ English | [中文](./README.zh-CN.md)
 ## 2. Systems & Frameworks (stateful agents / memory managers)
 | Name | Year | Type | Memory Scope | Key Idea |
 |---|---:|---|---|---|
+| [An Exploration-Analysis-Disambiguation Reasoning Framework for Word Sense Disambiguation with Low-Parameter LLMs](http://arxiv.org/abs/2603.05399v1) | 2026 | Paper | short | Recent arXiv memory-related paper; note to be curated by maintainers. |
+| [Legal interpretation and AI: from expert systems to argumentation and LLMs](http://arxiv.org/abs/2603.05377v1) | 2026 | Paper | short | Recent arXiv memory-related paper; note to be curated by maintainers. |
 | [Haystack](https://github.com/deepset-ai/haystack) | Unknown | Repo | short | Seed-curated memory resource for LLM/agent memory workflows. |
 | [LangGraph](https://github.com/langchain-ai/langgraph) | Unknown | Repo | long | Seed-curated memory resource for LLM/agent memory workflows. |
 | [Letta (formerly MemGPT)](https://github.com/letta-ai/letta) | Unknown | Repo | long | Virtual context paging for persistent agent memory. |
@@ -67,12 +69,25 @@ English | [中文](./README.zh-CN.md)
 | [StoryBench](https://arxiv.org/pdf/2506.13356) | 2025 | Paper | short | Defines evaluation settings and metrics for long-horizon memory, retrieval quality, and consistency. |
 | [WebChoreArena](https://arxiv.org/pdf/2506.01952) | 2025 | Paper | short | Investigates memory-aware modeling to improve long-context reasoning, persistence, and adaptation. |
 | [CloneMem](https://arxiv.org/pdf/2601.07023) | 2026 | Paper | long | Investigates memory-aware modeling to improve long-context reasoning, persistence, and adaptation. |
+| [cuRoboV2: Dynamics-Aware Motion Generation with Depth-Fused Distance Fields for High-DoF Robots](http://arxiv.org/abs/2603.05489v1) | 2026 | Paper | short | Recent arXiv memory-related paper; note to be curated by maintainers. |
+| [Distributed Partial Information Puzzles: Examining Common Ground Construction Under Epistemic Asymmetry](http://arxiv.org/abs/2603.05447v1) | 2026 | Paper | short | Recent arXiv memory-related paper; note to be curated by maintainers. |
+| [EdgeDAM: Real-time Object Tracking for Mobile Devices](http://arxiv.org/abs/2603.05454v1) | 2026 | Paper | short | Recent arXiv memory-related paper; note to be curated by maintainers. |
+| [InfoFlow KV: Information-Flow-Aware KV Recomputation for Long Context](http://arxiv.org/abs/2603.05344v1) | 2026 | Paper | long | Recent arXiv memory-related paper; note to be curated by maintainers. |
 | [KnowMe-Bench](https://arxiv.org/abs/2601.04745) | 2026 | Paper | short | Defines evaluation settings and metrics for long-horizon memory, retrieval quality, and consistency. |
+| [Latent Wasserstein Adversarial Imitation Learning](http://arxiv.org/abs/2603.05439v1) | 2026 | Paper | short | Recent arXiv memory-related paper; note to be curated by maintainers. |
+| [Local strategies are pretty good at computing Boolean properties of quantum sequences](http://arxiv.org/abs/2603.05451v1) | 2026 | Paper | short | Recent arXiv memory-related paper; note to be curated by maintainers. |
 | [Mem-Gallery](https://arxiv.org/pdf/2601.03515) | 2026 | Paper | long | Investigates memory-aware modeling to improve long-context reasoning, persistence, and adaptation. |
+| [Mirror codes: High-threshold quantum LDPC codes beyond the CSS regime](http://arxiv.org/abs/2603.05494v1) | 2026 | Paper | short | Recent arXiv memory-related paper; note to be curated by maintainers. |
+| [Observing and Controlling Features in Vision-Language-Action Models](http://arxiv.org/abs/2603.05486v1) | 2026 | Paper | short | Recent arXiv memory-related paper; note to be curated by maintainers. |
+| [POET-X: Memory-efficient LLM Training by Scaling Orthogonal Transformation](http://arxiv.org/abs/2603.05497v1) | 2026 | Paper | long | Recent arXiv memory-related paper; note to be curated by maintainers. |
+| [Preserving Continuous Symmetry in Discrete Spaces: Geometric-Aware Quantization for SO(3)-Equivariant GNNs](http://arxiv.org/abs/2603.05337v1) | 2026 | Paper | short | Recent arXiv memory-related paper; note to be curated by maintainers. |
 | [RealMem](https://arxiv.org/pdf/2601.06966) | 2026 | Paper | long | Investigates memory-aware modeling to improve long-context reasoning, persistence, and adaptation. |
-| [LongGenBench](https://arxiv.org/pdf/2409.02076) | 2025 | Paper | long | Defines evaluation settings and metrics for long-horizon memory, retrieval quality, and consistency. |
-| [A-mem](https://github.com/agiresearch/A-mem) | 2025 | Repo | long | Agentic memory pipeline for write/retrieve decisions. |
-| [MemoryLLM repo](https://github.com/wangyu-ustc/MemoryLLM) | 2024 | Repo | long | Explicit memory tokens with retrieval-augmented updates. |
+| [SAIL: Similarity-Aware Guidance and Inter-Caption Augmentation-based Learning for Weakly-Supervised Dense Video Captioning](http://arxiv.org/abs/2603.05413v1) | 2026 | Paper | short | Recent arXiv memory-related paper; note to be curated by maintainers. |
+| [Spatiotemporal Pauli processes: Quantum combs for modelling correlated noise in quantum error correction](http://arxiv.org/abs/2603.05471v1) | 2026 | Paper | short | Recent arXiv memory-related paper; note to be curated by maintainers. |
+| [Towards Provably Unbiased LLM Judges via Bias-Bounded Evaluation](http://arxiv.org/abs/2603.05484v1) | 2026 | Paper | short | Recent arXiv memory-related paper; note to be curated by maintainers. |
+| [LongGenBench](https://arxiv.org/pdf/2409.02076) | 2076 | Paper | long | Defines evaluation settings and metrics for long-horizon memory, retrieval quality, and consistency. |
+| [A-mem](https://github.com/agiresearch/A-mem) | Unknown | Repo | long | Agentic memory pipeline for write/retrieve decisions. |
+| [MemoryLLM repo](https://github.com/wangyu-ustc/MemoryLLM) | Unknown | Repo | long | Explicit memory tokens with retrieval-augmented updates. |
 
 ## 4. Memory Representations — vector / retrieval memory
 | Name | Year | Type | Memory Scope | Key Idea |
