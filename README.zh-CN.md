@@ -2,7 +2,7 @@
 
 > LLM/Agent Memory 资源清单：论文、仓库、评测、数据集。
 
-**最后更新：2026-02-21**
+**最后更新：2026-03-14**
 **统计：** 共 68 条 · Paper 48 · Repo 8 · Benchmark 6 · Dataset 6
 
 [English](./README.md) | 中文
@@ -70,9 +70,9 @@
 | [KnowMe-Bench](https://arxiv.org/abs/2601.04745) | 2026 | Paper | short | Defines evaluation settings and metrics for long-horizon memory, retrieval quality, and consistency. |
 | [Mem-Gallery](https://arxiv.org/pdf/2601.03515) | 2026 | Paper | long | Investigates memory-aware modeling to improve long-context reasoning, persistence, and adaptation. |
 | [RealMem](https://arxiv.org/pdf/2601.06966) | 2026 | Paper | long | Investigates memory-aware modeling to improve long-context reasoning, persistence, and adaptation. |
-| [LongGenBench](https://arxiv.org/pdf/2409.02076) | 2025 | Paper | long | Defines evaluation settings and metrics for long-horizon memory, retrieval quality, and consistency. |
-| [A-mem](https://github.com/agiresearch/A-mem) | 2025 | Repo | long | Agentic memory pipeline for write/retrieve decisions. |
-| [MemoryLLM repo](https://github.com/wangyu-ustc/MemoryLLM) | 2024 | Repo | long | Explicit memory tokens with retrieval-augmented updates. |
+| [LongGenBench](https://arxiv.org/pdf/2409.02076) | 2076 | Paper | long | Defines evaluation settings and metrics for long-horizon memory, retrieval quality, and consistency. |
+| [A-mem](https://github.com/agiresearch/A-mem) | Unknown | Repo | long | Agentic memory pipeline for write/retrieve decisions. |
+| [MemoryLLM repo](https://github.com/wangyu-ustc/MemoryLLM) | Unknown | Repo | long | Explicit memory tokens with retrieval-augmented updates. |
 
 ## 4. 记忆表征——向量/检索记忆
 | 名称 | 年份 | 类型 | Memory Scope | 核心点 |
