@@ -2,8 +2,8 @@
 
 > LLM/Agent Memory 资源清单：论文、仓库、评测、数据集。
 
-**最后更新：2026-02-21**
-**统计：** 共 68 条 · Paper 48 · Repo 8 · Benchmark 6 · Dataset 6
+**最后更新：2026-03-21**
+**统计：** 共 86 条 · Paper 65 · Repo 9 · Benchmark 6 · Dataset 6
 
 [English](./README.md) | 中文
 
@@ -66,13 +66,29 @@
 | [PERSONAMEM-v2](https://www.arxiv.org/pdf/2512.06688) | 2025 | Paper | long | Investigates memory-aware modeling to improve long-context reasoning, persistence, and adaptation. |
 | [StoryBench](https://arxiv.org/pdf/2506.13356) | 2025 | Paper | short | Defines evaluation settings and metrics for long-horizon memory, retrieval quality, and consistency. |
 | [WebChoreArena](https://arxiv.org/pdf/2506.01952) | 2025 | Paper | short | Investigates memory-aware modeling to improve long-context reasoning, persistence, and adaptation. |
+| [A Dataset and Resources for Identifying Patient Health Literacy Information from Clinical Notes](http://arxiv.org/abs/2603.19080v1) | 2026 | Paper | short | Recent arXiv memory-related paper; note to be curated by maintainers. |
+| [ADAPT: Attention Driven Adaptive Prompt Scheduling and InTerpolating Orthogonal Complements for Rare Concepts Generation](http://arxiv.org/abs/2603.19148v1) | 2026 | Paper | short | Recent arXiv memory-related paper; note to be curated by maintainers. |
+| [ADMM-Based Distributed MPC with Control Barrier Functions for Safe Multi-Robot Quadrupedal Locomotion](http://arxiv.org/abs/2603.19167v1) | 2026 | Paper | short | Recent arXiv memory-related paper; note to be curated by maintainers. |
 | [CloneMem](https://arxiv.org/pdf/2601.07023) | 2026 | Paper | long | Investigates memory-aware modeling to improve long-context reasoning, persistence, and adaptation. |
+| [F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World](http://arxiv.org/abs/2603.19220v1) | 2026 | Paper | short | Recent arXiv memory-related paper; note to be curated by maintainers. |
+| [Follow the Rules (or Not): Community Norms and AI-Generated Support in Online Health Communities](http://arxiv.org/abs/2603.19087v1) | 2026 | Paper | short | Recent arXiv memory-related paper; note to be curated by maintainers. |
+| [From Inference Efficiency to Embodied Efficiency: Revisiting Efficiency Metrics for Vision-Language-Action Models](http://arxiv.org/abs/2603.19127v1) | 2026 | Paper | short | Recent arXiv memory-related paper; note to be curated by maintainers. |
+| [GSMem: 3D Gaussian Splatting as Persistent Spatial Memory for Zero-Shot Embodied Exploration and Reasoning](http://arxiv.org/abs/2603.19133v1) | 2026 | Paper | long | Recent arXiv memory-related paper; note to be curated by maintainers. |
 | [KnowMe-Bench](https://arxiv.org/abs/2601.04745) | 2026 | Paper | short | Defines evaluation settings and metrics for long-horizon memory, retrieval quality, and consistency. |
+| [LuMamba: Latent Unified Mamba for Electrode Topology-Invariant and Efficient EEG Modeling](http://arxiv.org/abs/2603.19097v1) | 2026 | Paper | short | Recent arXiv memory-related paper; note to be curated by maintainers. |
+| [LVOmniBench: Pioneering Long Audio-Video Understanding Evaluation for Omnimodal LLMs](http://arxiv.org/abs/2603.19198v1) | 2026 | Paper | long | Recent arXiv memory-related paper; note to be curated by maintainers. |
+| [Markov Potential Game and Multi-Agent Reinforcement Learning for Autonomous Driving](http://arxiv.org/abs/2603.19182v1) | 2026 | Paper | long | Recent arXiv memory-related paper; note to be curated by maintainers. |
+| [Meanings and Measurements: Multi-Agent Probabilistic Grounding for Vision-Language Navigation](http://arxiv.org/abs/2603.19163v1) | 2026 | Paper | long | Recent arXiv memory-related paper; note to be curated by maintainers. |
 | [Mem-Gallery](https://arxiv.org/pdf/2601.03515) | 2026 | Paper | long | Investigates memory-aware modeling to improve long-context reasoning, persistence, and adaptation. |
+| [NavTrust: Benchmarking Trustworthiness for Embodied Navigation](http://arxiv.org/abs/2603.19225v1) | 2026 | Paper | short | Recent arXiv memory-related paper; note to be curated by maintainers. |
 | [RealMem](https://arxiv.org/pdf/2601.06966) | 2026 | Paper | long | Investigates memory-aware modeling to improve long-context reasoning, persistence, and adaptation. |
-| [LongGenBench](https://arxiv.org/pdf/2409.02076) | 2025 | Paper | long | Defines evaluation settings and metrics for long-horizon memory, retrieval quality, and consistency. |
-| [A-mem](https://github.com/agiresearch/A-mem) | 2025 | Repo | long | Agentic memory pipeline for write/retrieve decisions. |
-| [MemoryLLM repo](https://github.com/wangyu-ustc/MemoryLLM) | 2024 | Repo | long | Explicit memory tokens with retrieval-augmented updates. |
+| [SOL-ExecBench: Speed-of-Light Benchmarking for Real-World GPU Kernels Against Hardware Limits](http://arxiv.org/abs/2603.19172v1) | 2026 | Paper | short | Recent arXiv memory-related paper; note to be curated by maintainers. |
+| [LongGenBench](https://arxiv.org/pdf/2409.02076) | 2076 | Paper | long | Defines evaluation settings and metrics for long-horizon memory, retrieval quality, and consistency. |
+| [A-mem](https://github.com/agiresearch/A-mem) | Unknown | Repo | long | Agentic memory pipeline for write/retrieve decisions. |
+| [GitHub](https://github.com/strangeadvancedmarketing/Adam) | Unknown | Repo | short | Auto-added from curated seed lists; verify and refine notes. |
+| [Interactive Proof](https://strangeadvancedmarketing.github.io/Adam/showcase/ai-amnesia-solved.html) | Unknown | Paper | short | Auto-added from curated seed lists; verify and refine notes. |
+| [Live Demo](https://strangeadvancedmarketing.github.io/Adam/) | Unknown | Paper | short | Auto-added from curated seed lists; verify and refine notes. |
+| [MemoryLLM repo](https://github.com/wangyu-ustc/MemoryLLM) | Unknown | Repo | long | Explicit memory tokens with retrieval-augmented updates. |
 
 ## 4. 记忆表征——向量/检索记忆
 | 名称 | 年份 | 类型 | Memory Scope | 核心点 |
@@ -83,6 +99,8 @@
 ## 5. 记忆表征——图/知识记忆
 | 名称 | 年份 | 类型 | Memory Scope | 核心点 |
 |---|---:|---|---|---|
+| [How Auditory Knowledge in LLM Backbones Shapes Audio Language Models: A Holistic Evaluation](http://arxiv.org/abs/2603.19191v1) | 2026 | Paper | short | Recent arXiv memory-related paper; note to be curated by maintainers. |
+| [UGID: Unified Graph Isomorphism for Debiasing Large Language Models](http://arxiv.org/abs/2603.19138v1) | 2026 | Paper | long | Recent arXiv memory-related paper; note to be curated by maintainers. |
 
 ## 6. 记忆表征——混合/层级
 | 名称 | 年份 | 类型 | Memory Scope | 核心点 |
