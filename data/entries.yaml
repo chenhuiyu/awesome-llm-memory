@@ -334,7 +334,7 @@
   category: repr_summary_notes
   source: A
 - name: LongGenBench
-  year: 2076
+  year: 2025
   type: Paper
   scope: long
   key_idea: Defines evaluation settings and metrics for long-horizon memory, retrieval
@@ -442,7 +442,7 @@
   category: repr_summary_notes
   source: D
 - name: A-mem
-  year: Unknown
+  year: 2025
   type: Repo
   scope: long
   key_idea: Agentic memory pipeline for write/retrieve decisions.
@@ -471,7 +471,7 @@
   category: repr_summary_notes
   source: D
 - name: MemoryLLM repo
-  year: Unknown
+  year: 2024
   type: Repo
   scope: long
   key_idea: Explicit memory tokens with retrieval-augmented updates.
@@ -602,6 +602,16 @@
   key_idea: Seed-curated memory resource for LLM/agent memory workflows.
   links:
   - https://github.com/getzep/zep
+  category: systems_frameworks
+  source: D
+- name: Tree Ring Memory
+  year: 2026
+  type: Repo
+  scope: long
+  key_idea: Local Rust CLI/TUI for agent-memory lifecycle, SQLite/FTS recall,
+    redaction, consolidation, and audits.
+  links:
+  - https://github.com/TerminallyLazy/Tree-Ring-Memory
   category: systems_frameworks
   source: D
 - name: BEIR

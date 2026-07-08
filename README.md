@@ -2,8 +2,8 @@
 
 > Curated resources for LLM/Agent memory: papers, repos, benchmarks, and datasets.
 
-**Last updated: 2026-02-21**
-**Stats:** 68 entries · Paper 48 · Repo 8 · Benchmark 6 · Dataset 6
+**Last updated: 2026-07-07**
+**Stats:** 69 entries · Paper 48 · Repo 9 · Benchmark 6 · Dataset 6
 
 English | [中文](./README.zh-CN.md)
 
@@ -19,6 +19,7 @@ English | [中文](./README.zh-CN.md)
 ## 2. Systems & Frameworks (stateful agents / memory managers)
 | Name | Year | Type | Memory Scope | Key Idea |
 |---|---:|---|---|---|
+| [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) | 2026 | Repo | long | Local Rust CLI/TUI for agent-memory lifecycle, SQLite/FTS recall, redaction, consolidation, and audits. |
 | [Haystack](https://github.com/deepset-ai/haystack) | Unknown | Repo | short | Seed-curated memory resource for LLM/agent memory workflows. |
 | [LangGraph](https://github.com/langchain-ai/langgraph) | Unknown | Repo | long | Seed-curated memory resource for LLM/agent memory workflows. |
 | [Letta (formerly MemGPT)](https://github.com/letta-ai/letta) | Unknown | Repo | long | Virtual context paging for persistent agent memory. |
@@ -45,15 +46,18 @@ English | [中文](./README.zh-CN.md)
 | [LongBench V2](https://arxiv.org/pdf/2412.15204) | 2024 | Paper | long | Defines evaluation settings and metrics for long-horizon memory, retrieval quality, and consistency. |
 | [MADial-Bench](https://arxiv.org/abs/2409.15240) | 2024 | Paper | short | Defines evaluation settings and metrics for long-horizon memory, retrieval quality, and consistency. |
 | [MemoryLLM](https://arxiv.org/abs/2402.04624) | 2024 | Paper | long | Uses dedicated memory tokens and retrieval to maintain long-horizon information across interactions. |
+| [MemoryLLM repo](https://github.com/wangyu-ustc/MemoryLLM) | 2024 | Repo | long | Explicit memory tokens with retrieval-augmented updates. |
 | [MT-Mind2Web](https://arxiv.org/pdf/2402.15057) | 2024 | Paper | short | Investigates memory-aware modeling to improve long-context reasoning, persistence, and adaptation. |
 | [RULER](https://arxiv.org/pdf/2404.06654) | 2024 | Paper | short | Investigates memory-aware modeling to improve long-context reasoning, persistence, and adaptation. |
 | [SCBENCH](https://arxiv.org/abs/2412.10319) | 2024 | Paper | short | Defines evaluation settings and metrics for long-horizon memory, retrieval quality, and consistency. |
 | [StreamBench](https://arxiv.org/pdf/2406.08747) | 2024 | Paper | short | Defines evaluation settings and metrics for long-horizon memory, retrieval quality, and consistency. |
+| [A-mem](https://github.com/agiresearch/A-mem) | 2025 | Repo | long | Agentic memory pipeline for write/retrieve decisions. |
 | [A-MEM: Agentic Memory for LLM Agents](https://arxiv.org/abs/2502.12110) | 2025 | Paper | long | Proposes agentic memory operations that decide what to write, update, and retrieve over time. |
 | [HaluMem](https://arxiv.org/pdf/2511.03506) | 2025 | Paper | long | Investigates memory-aware modeling to improve long-context reasoning, persistence, and adaptation. |
 | [IMPLEXCONV](https://aclanthology.org/2025.emnlp-main.580.pdf) | 2025 | Paper | short | Investigates memory-aware modeling to improve long-context reasoning, persistence, and adaptation. |
 | [LifelongAgentBench](https://arxiv.org/pdf/2505.11942) | 2025 | Paper | long | Defines evaluation settings and metrics for long-horizon memory, retrieval quality, and consistency. |
 | [LOCCO](https://aclanthology.org/2025.findings-acl.1014.pdf) | 2025 | Paper | short | Investigates memory-aware modeling to improve long-context reasoning, persistence, and adaptation. |
+| [LongGenBench](https://arxiv.org/pdf/2409.02076) | 2025 | Paper | long | Defines evaluation settings and metrics for long-horizon memory, retrieval quality, and consistency. |
 | [MemBench](https://aclanthology.org/2025.findings-acl.989.pdf) | 2025 | Paper | long | Defines evaluation settings and metrics for long-horizon memory, retrieval quality, and consistency. |
 | [MemoryAgentBench](https://arxiv.org/pdf/2507.05257) | 2025 | Paper | long | Defines evaluation settings and metrics for long-horizon memory, retrieval quality, and consistency. |
 | [MemoryBench](https://arxiv.org/pdf/2510.17281) | 2025 | Paper | long | Defines evaluation settings and metrics for long-horizon memory, retrieval quality, and consistency. |
@@ -70,9 +74,6 @@ English | [中文](./README.zh-CN.md)
 | [KnowMe-Bench](https://arxiv.org/abs/2601.04745) | 2026 | Paper | short | Defines evaluation settings and metrics for long-horizon memory, retrieval quality, and consistency. |
 | [Mem-Gallery](https://arxiv.org/pdf/2601.03515) | 2026 | Paper | long | Investigates memory-aware modeling to improve long-context reasoning, persistence, and adaptation. |
 | [RealMem](https://arxiv.org/pdf/2601.06966) | 2026 | Paper | long | Investigates memory-aware modeling to improve long-context reasoning, persistence, and adaptation. |
-| [LongGenBench](https://arxiv.org/pdf/2409.02076) | 2025 | Paper | long | Defines evaluation settings and metrics for long-horizon memory, retrieval quality, and consistency. |
-| [A-mem](https://github.com/agiresearch/A-mem) | 2025 | Repo | long | Agentic memory pipeline for write/retrieve decisions. |
-| [MemoryLLM repo](https://github.com/wangyu-ustc/MemoryLLM) | 2024 | Repo | long | Explicit memory tokens with retrieval-augmented updates. |
 
 ## 4. Memory Representations — vector / retrieval memory
 | Name | Year | Type | Memory Scope | Key Idea |
