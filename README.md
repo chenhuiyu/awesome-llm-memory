@@ -24,6 +24,7 @@ English | [中文](./README.zh-CN.md)
 | [Letta (formerly MemGPT)](https://github.com/letta-ai/letta) | Unknown | Repo | long | Virtual context paging for persistent agent memory. |
 | [LlamaIndex](https://github.com/run-llama/llama_index) | Unknown | Repo | short | Seed-curated memory resource for LLM/agent memory workflows. |
 | [Mem0](https://github.com/mem0ai/mem0) | Unknown | Repo | long | Seed-curated memory resource for LLM/agent memory workflows. |
+| [Orano MCP server](https://github.com/infotik/orano-mcp-server) | 2026 | Hosted server | long | Personal read-only memory server: exposes a consumer app library of saved-content projects, memory facts, and embeddings to the user's own agent via MCP. |
 | [Zep](https://github.com/getzep/zep) | Unknown | Repo | short | Seed-curated memory resource for LLM/agent memory workflows. |
 
 ## 3. Memory Representations — summary/notes
