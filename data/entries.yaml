@@ -658,3 +658,13 @@
   - http://nlp.cs.washington.edu/triviaqa/
   category: datasets
   source: D
+- name: Screenpipe
+  year: Unknown
+  type: Repo
+  scope: user
+  key_idea: Locally captured screen/audio history supplies searchable agent context via MCP/API; source-available, with optional cloud processing.
+  links:
+  - https://github.com/screenpipe/screenpipe
+  - https://github.com/screenpipe/screenpipe/blob/main/packages/screenpipe-mcp/README.md
+  - https://github.com/screenpipe/screenpipe/blob/main/LICENSE.md
+  category: systems_frameworks

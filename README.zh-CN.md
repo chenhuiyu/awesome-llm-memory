@@ -2,8 +2,8 @@
 
 > LLM/Agent Memory 资源清单：论文、仓库、评测、数据集。
 
-**最后更新：2026-02-21**
-**统计：** 共 68 条 · Paper 48 · Repo 8 · Benchmark 6 · Dataset 6
+**最后更新：2026-10-07**
+**统计：** 共 69 条 · Paper 48 · Repo 9 · Benchmark 6 · Dataset 6
 
 [English](./README.md) | 中文
 
@@ -24,6 +24,7 @@
 | [Letta (formerly MemGPT)](https://github.com/letta-ai/letta) | Unknown | Repo | long | Virtual context paging for persistent agent memory. |
 | [LlamaIndex](https://github.com/run-llama/llama_index) | Unknown | Repo | short | Seed-curated memory resource for LLM/agent memory workflows. |
 | [Mem0](https://github.com/mem0ai/mem0) | Unknown | Repo | long | Seed-curated memory resource for LLM/agent memory workflows. |
+| [Screenpipe](https://github.com/screenpipe/screenpipe) | Unknown | Repo | user | Locally captured screen/audio history supplies searchable agent context via MCP/API; source-available, with optional cloud processing. |
 | [Zep](https://github.com/getzep/zep) | Unknown | Repo | short | Seed-curated memory resource for LLM/agent memory workflows. |
 
 ## 3. 记忆表征——摘要/笔记
