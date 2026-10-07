@@ -2,8 +2,8 @@
 
 > Curated resources for LLM/Agent memory: papers, repos, benchmarks, and datasets.
 
-**Last updated: 2026-02-21**
-**Stats:** 68 entries · Paper 48 · Repo 8 · Benchmark 6 · Dataset 6
+**Last updated: 2026-10-07**
+**Stats:** 69 entries · Paper 48 · Repo 9 · Benchmark 6 · Dataset 6
 
 English | [中文](./README.zh-CN.md)
 
@@ -24,6 +24,7 @@ English | [中文](./README.zh-CN.md)
 | [Letta (formerly MemGPT)](https://github.com/letta-ai/letta) | Unknown | Repo | long | Virtual context paging for persistent agent memory. |
 | [LlamaIndex](https://github.com/run-llama/llama_index) | Unknown | Repo | short | Seed-curated memory resource for LLM/agent memory workflows. |
 | [Mem0](https://github.com/mem0ai/mem0) | Unknown | Repo | long | Seed-curated memory resource for LLM/agent memory workflows. |
+| [Screenpipe](https://github.com/screenpipe/screenpipe) | Unknown | Repo | user | Locally captured screen/audio history supplies searchable agent context via MCP/API; source-available, with optional cloud processing. |
 | [Zep](https://github.com/getzep/zep) | Unknown | Repo | short | Seed-curated memory resource for LLM/agent memory workflows. |
 
 ## 3. Memory Representations — summary/notes
