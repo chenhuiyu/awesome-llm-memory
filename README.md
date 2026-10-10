@@ -2,8 +2,8 @@
 
 > Curated resources for LLM/Agent memory: papers, repos, benchmarks, and datasets.
 
-**Last updated: 2026-02-21**
-**Stats:** 68 entries · Paper 48 · Repo 8 · Benchmark 6 · Dataset 6
+**Last updated: 2026-10-10**
+**Stats:** 89 entries · Paper 67 · Repo 10 · Benchmark 6 · Dataset 6
 
 English | [中文](./README.zh-CN.md)
 
@@ -19,6 +19,7 @@ English | [中文](./README.zh-CN.md)
 ## 2. Systems & Frameworks (stateful agents / memory managers)
 | Name | Year | Type | Memory Scope | Key Idea |
 |---|---:|---|---|---|
+| [Mental-Models for Multi-Agent Systems](http://arxiv.org/abs/2610.12452v1) | 2026 | Paper | long | Recent arXiv memory-related paper; note to be curated by maintainers. |
 | [Haystack](https://github.com/deepset-ai/haystack) | Unknown | Repo | short | Seed-curated memory resource for LLM/agent memory workflows. |
 | [LangGraph](https://github.com/langchain-ai/langgraph) | Unknown | Repo | long | Seed-curated memory resource for LLM/agent memory workflows. |
 | [Letta (formerly MemGPT)](https://github.com/letta-ai/letta) | Unknown | Repo | long | Virtual context paging for persistent agent memory. |
@@ -66,13 +67,33 @@ English | [中文](./README.zh-CN.md)
 | [PERSONAMEM-v2](https://www.arxiv.org/pdf/2512.06688) | 2025 | Paper | long | Investigates memory-aware modeling to improve long-context reasoning, persistence, and adaptation. |
 | [StoryBench](https://arxiv.org/pdf/2506.13356) | 2025 | Paper | short | Defines evaluation settings and metrics for long-horizon memory, retrieval quality, and consistency. |
 | [WebChoreArena](https://arxiv.org/pdf/2506.01952) | 2025 | Paper | short | Investigates memory-aware modeling to improve long-context reasoning, persistence, and adaptation. |
+| [AgentGarten: Code Worlds for Evolving Agents](http://arxiv.org/abs/2610.12369v1) | 2026 | Paper | long | Recent arXiv memory-related paper; note to be curated by maintainers. |
+| [ATM-Bench](https://arxiv.org/pdf/2603.01990) | 2026 | Paper | short | Auto-added from curated seed lists; verify and refine notes. |
+| [Can AI Agents Learn Their Way to the Top? Evaluating Heuristic Learning in a Long-Running Game Agent Competition](http://arxiv.org/abs/2610.12338v1) | 2026 | Paper | long | Recent arXiv memory-related paper; note to be curated by maintainers. |
+| [Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception](http://arxiv.org/abs/2610.12438v1) | 2026 | Paper | short | Recent arXiv memory-related paper; note to be curated by maintainers. |
 | [CloneMem](https://arxiv.org/pdf/2601.07023) | 2026 | Paper | long | Investigates memory-aware modeling to improve long-context reasoning, persistence, and adaptation. |
+| [ContiLNN: Mitigating Slice Sampling Discontinuity with Liquid Neural Networks for Medical Image Restoration](http://arxiv.org/abs/2610.12327v1) | 2026 | Paper | short | Recent arXiv memory-related paper; note to be curated by maintainers. |
+| [Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff](http://arxiv.org/abs/2610.12431v1) | 2026 | Paper | long | Recent arXiv memory-related paper; note to be curated by maintainers. |
+| [From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents](http://arxiv.org/abs/2610.12464v1) | 2026 | Paper | long | Recent arXiv memory-related paper; note to be curated by maintainers. |
 | [KnowMe-Bench](https://arxiv.org/abs/2601.04745) | 2026 | Paper | short | Defines evaluation settings and metrics for long-horizon memory, retrieval quality, and consistency. |
+| [Long Text to Predictive Features: LLM-Guided Blockwise Feature Engineering via Executable Program Search](http://arxiv.org/abs/2610.12375v1) | 2026 | Paper | long | Recent arXiv memory-related paper; note to be curated by maintainers. |
 | [Mem-Gallery](https://arxiv.org/pdf/2601.03515) | 2026 | Paper | long | Investigates memory-aware modeling to improve long-context reasoning, persistence, and adaptation. |
+| [Overcoming Prior Barriers: Supervised Fine-Tuning under Long-Tail Distribution](http://arxiv.org/abs/2610.12343v1) | 2026 | Paper | long | Recent arXiv memory-related paper; note to be curated by maintainers. |
+| [Predicting Alignment Generalization with Value Representations](http://arxiv.org/abs/2610.12403v1) | 2026 | Paper | short | Recent arXiv memory-related paper; note to be curated by maintainers. |
+| [Prior or Feedback? What an LLM Uses When Adapting Neural Operators](http://arxiv.org/abs/2610.12321v1) | 2026 | Paper | short | Recent arXiv memory-related paper; note to be curated by maintainers. |
 | [RealMem](https://arxiv.org/pdf/2601.06966) | 2026 | Paper | long | Investigates memory-aware modeling to improve long-context reasoning, persistence, and adaptation. |
-| [LongGenBench](https://arxiv.org/pdf/2409.02076) | 2025 | Paper | long | Defines evaluation settings and metrics for long-horizon memory, retrieval quality, and consistency. |
-| [A-mem](https://github.com/agiresearch/A-mem) | 2025 | Repo | long | Agentic memory pipeline for write/retrieve decisions. |
-| [MemoryLLM repo](https://github.com/wangyu-ustc/MemoryLLM) | 2024 | Repo | long | Explicit memory tokens with retrieval-augmented updates. |
+| [RoboRSI: Stable, efficient, and reusable robot self-evolution in complex real-world environments](http://arxiv.org/abs/2610.12419v1) | 2026 | Paper | short | Recent arXiv memory-related paper; note to be curated by maintainers. |
+| [Which Skill to Distill? SGUID: Selecting a Compact Skill Bank for Model-Skill Co-Evolution](http://arxiv.org/abs/2610.12360v1) | 2026 | Paper | short | Recent arXiv memory-related paper; note to be curated by maintainers. |
+| [WorldGuide: Goal-Directed Video World Model for Procedural Task Execution](http://arxiv.org/abs/2610.12458v1) | 2026 | Paper | short | Recent arXiv memory-related paper; note to be curated by maintainers. |
+| [WOVEN: Weaving Visual World Modeling into Multimodal LLMs](http://arxiv.org/abs/2610.12415v1) | 2026 | Paper | short | Recent arXiv memory-related paper; note to be curated by maintainers. |
+| [LongGenBench](https://arxiv.org/pdf/2409.02076) | 2076 | Paper | long | Defines evaluation settings and metrics for long-horizon memory, retrieval quality, and consistency. |
+| [A-mem](https://github.com/agiresearch/A-mem) | Unknown | Repo | long | Agentic memory pipeline for write/retrieve decisions. |
+| [Docs & benchmarks](https://github.com/jaylfc/taosmd/blob/master/docs/benchmarks.md) | Unknown | Repo | short | Auto-added from curated seed lists; verify and refine notes. |
+| [GitHub](https://github.com/strangeadvancedmarketing/Adam) | Unknown | Repo | short | Auto-added from curated seed lists; verify and refine notes. |
+| [Interactive Proof](https://strangeadvancedmarketing.github.io/Adam/showcase/ai-amnesia-solved.html) | Unknown | Paper | short | Auto-added from curated seed lists; verify and refine notes. |
+| [Live Demo](https://strangeadvancedmarketing.github.io/Adam/) | Unknown | Paper | short | Auto-added from curated seed lists; verify and refine notes. |
+| [MemoryLLM repo](https://github.com/wangyu-ustc/MemoryLLM) | Unknown | Repo | long | Explicit memory tokens with retrieval-augmented updates. |
+| [TWZRD Agent Intel](https://intel.twzrd.xyz) | Unknown | Paper | long | Auto-added from curated seed lists; verify and refine notes. |
 
 ## 4. Memory Representations — vector / retrieval memory
 | Name | Year | Type | Memory Scope | Key Idea |
