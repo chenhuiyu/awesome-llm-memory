@@ -2,8 +2,8 @@
 
 > Curated resources for LLM/Agent memory: papers, repos, benchmarks, and datasets.
 
-**Last updated: 2026-02-21**
-**Stats:** 68 entries · Paper 48 · Repo 8 · Benchmark 6 · Dataset 6
+**Last updated: 2026-11-01**
+**Stats:** 69 entries · Paper 48 · Repo 9 · Benchmark 6 · Dataset 6
 
 English | [中文](./README.zh-CN.md)
 
@@ -19,6 +19,7 @@ English | [中文](./README.zh-CN.md)
 ## 2. Systems & Frameworks (stateful agents / memory managers)
 | Name | Year | Type | Memory Scope | Key Idea |
 |---|---:|---|---|---|
+| [SoloPup Memory](https://github.com/OakcoderX/solopup-memory) | 2026 | Repo | long | Public-beta DeepSeek Harness text-memory plugin preserving source references, project/global scope, conditions and correction history. |
 | [Haystack](https://github.com/deepset-ai/haystack) | Unknown | Repo | short | Seed-curated memory resource for LLM/agent memory workflows. |
 | [LangGraph](https://github.com/langchain-ai/langgraph) | Unknown | Repo | long | Seed-curated memory resource for LLM/agent memory workflows. |
 | [Letta (formerly MemGPT)](https://github.com/letta-ai/letta) | Unknown | Repo | long | Virtual context paging for persistent agent memory. |

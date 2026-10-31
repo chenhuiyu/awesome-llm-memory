@@ -658,3 +658,11 @@
   - http://nlp.cs.washington.edu/triviaqa/
   category: datasets
   source: D
+- name: SoloPup Memory
+  year: 2026
+  type: Repo
+  scope: long
+  key_idea: Public-beta DeepSeek Harness text-memory plugin preserving source references, project/global scope, conditions and correction history.
+  links:
+  - https://github.com/OakcoderX/solopup-memory
+  category: systems_frameworks

@@ -2,8 +2,8 @@
 
 > LLM/Agent Memory 资源清单：论文、仓库、评测、数据集。
 
-**最后更新：2026-02-21**
-**统计：** 共 68 条 · Paper 48 · Repo 8 · Benchmark 6 · Dataset 6
+**最后更新：2026-11-01**
+**统计：** 共 69 条 · Paper 48 · Repo 9 · Benchmark 6 · Dataset 6
 
 [English](./README.md) | 中文
 
@@ -19,6 +19,7 @@
 ## 2. 系统与框架（有状态 Agent / 记忆管理）
 | 名称 | 年份 | 类型 | Memory Scope | 核心点 |
 |---|---:|---|---|---|
+| [SoloPup Memory](https://github.com/OakcoderX/solopup-memory) | 2026 | Repo | long | Public-beta DeepSeek Harness text-memory plugin preserving source references, project/global scope, conditions and correction history. |
 | [Haystack](https://github.com/deepset-ai/haystack) | Unknown | Repo | short | Seed-curated memory resource for LLM/agent memory workflows. |
 | [LangGraph](https://github.com/langchain-ai/langgraph) | Unknown | Repo | long | Seed-curated memory resource for LLM/agent memory workflows. |
 | [Letta (formerly MemGPT)](https://github.com/letta-ai/letta) | Unknown | Repo | long | Virtual context paging for persistent agent memory. |
