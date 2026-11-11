@@ -658,3 +658,12 @@
   - http://nlp.cs.washington.edu/triviaqa/
   category: datasets
   source: D
+- name: AIYIchat
+  year: 2026
+  type: Repo
+  scope: long
+  key_idea: Per-service long-term memory with rule-based punctual-fact expiry, dedup
+    governance and evidence-validated reflection.
+  links:
+  - https://github.com/BugWhispererChen/AIYIchat
+  category: write_update_forget
